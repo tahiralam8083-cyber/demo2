@@ -5,6 +5,10 @@ public class C {
 		System.out.println("C.m2()");
 		
 	}
+	public void m3() {
+	  System.out.println("C.m3()");
+	  
+	}
 	
 
 }
